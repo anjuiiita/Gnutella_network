@@ -1,0 +1,4 @@
+Gnutella is a file sharing protocol that defines the way distributed nodes 
+communicate over a peer-to-peer (P2P) network. Like Napster, 
+Gnutella is often used to share music files and has been an object of great 
+concern within the music publishing industry.
